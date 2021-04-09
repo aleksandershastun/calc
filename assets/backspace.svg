@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.864" height="12.728" viewBox="0 0 18.864 12.728">
+  <g id="backspace" transform="translate(-146.879 -644.793)">
+    <line id="Line" x2="12" transform="translate(153.243 645.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line-2" data-name="Line" x2="12" transform="translate(153.243 656.814)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line-3" data-name="Line" x2="11.314" transform="translate(165.243 645.5) rotate(90)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line-4" data-name="Line" x2="8" transform="translate(147.586 651.157) rotate(-45)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line-5" data-name="Line" x2="8" transform="translate(147.586 651.157) rotate(45)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    <g id="x" transform="translate(-70.243 6.899)">
+      <line id="Line-6" data-name="Line" x2="8.027" y2="0.459" transform="translate(226.636 641.257) rotate(45)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line-7" data-name="Line" y1="0.459" x2="8.027" transform="translate(226.311 646.933) rotate(-45)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
